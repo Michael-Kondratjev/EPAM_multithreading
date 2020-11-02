@@ -1,0 +1,7 @@
+true    flutist      8000   30
+false   avtozak      4000   25
+true    banker       10000  50
+false   vodomet      6000   40
+true    journalist   5000   20
+true    sheep        3000   10
+false   balaklava    5000   15

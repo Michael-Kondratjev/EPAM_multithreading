@@ -1,0 +1,5 @@
+2020-11-03 00:14:25,153 FATAL b.e.r.m.Main [main] The program cannot be started. Cause: Error reading file resources/SeeralVehicles.txt
+2020-11-03 00:15:01,136 INFO b.e.r.r.VehicleReader [main] Vehicle cannot be created.
+File resources/SeveralVehicles.txt Line № 1:  incorrect data: weight or area must be greater than zero
+2020-11-03 00:15:58,091 INFO b.e.r.r.VehicleReader [main] Vehicle cannot be created.
+File resources/SeveralVehicles.txt Line № 3:  wrong number of data.
